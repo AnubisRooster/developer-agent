@@ -1,7 +1,8 @@
-# Graph Report - developer-agent  (2026-09-06)
+# Graph Report - developer-agent  (2026-09-07)
 
 ## Corpus Check
-- Corpus is ~17,340 words - fits in a single context window. You may not need a graph.
+- 54 files · ~67,137 words
+- Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
 - 360 nodes · 637 edges · 30 communities (19 shown, 2 thin omitted)
