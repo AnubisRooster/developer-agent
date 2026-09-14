@@ -1,12 +1,13 @@
-# Graph Report - developer-agent  (2026-09-07)
+# Graph Report - developer-agent  (2026-09-14)
 
 ## Corpus Check
-- 54 files · ~67,137 words
+- 54 files · ~67,136 words
 - Verdict: corpus is large enough that graph structure adds value.
+- Unclassified: 4 file(s) not represented in the graph (top: .example 1, (none) 1, .jsonl 1)
 
 ## Summary
-- 360 nodes · 637 edges · 30 communities (19 shown, 2 thin omitted)
-- Extraction: 93% EXTRACTED · 7% INFERRED · 0% AMBIGUOUS · INFERRED: 46 edges (avg confidence: 0.94)
+- 360 nodes · 636 edges · 30 communities (19 shown, 2 thin omitted)
+- Extraction: 93% EXTRACTED · 7% INFERRED · 0% AMBIGUOUS · INFERRED: 45 edges (avg confidence: 0.94)
 - Token cost: 0 input · 0 output
 
 ## Community Hubs (Navigation)

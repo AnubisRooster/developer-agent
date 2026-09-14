@@ -11063,18 +11063,6 @@
       "weight": 1.0
     },
     {
-      "source": "tests_test_database_db_session",
-      "target": "session",
-      "relation": "calls",
-      "_origin": "ast",
-      "confidence": "INFERRED",
-      "confidence_score": 0.85,
-      "context": "call",
-      "source_file": "tests/test_database.py",
-      "source_location": "L15",
-      "weight": 1.0
-    },
-    {
       "source": "agent_orchestrator_orchestrator",
       "target": "agent_planner_planner",
       "relation": "uses",
@@ -11527,5 +11515,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "acdd7c3c2039b6ed563a0211304ee26a750ea852"
+  "built_at_commit": "d94bdbff21f5cd4c1414daa2e91067f7ce1ee03e"
 }
